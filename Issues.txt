@@ -1,0 +1,7 @@
+1. Part 7	: Cannot run Debug Mode ON
+			  /app/log/microblog.log is still empty
+
+2. Part 10	: Cannot run (venv) $ python -m smtpd -n -c DebuggingServer localhost:8025
+			  "Reset Password" link is still error 500
+
+3. 
