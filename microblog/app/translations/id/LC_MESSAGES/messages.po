@@ -1,0 +1,197 @@
+# Indonesian translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-11-08 13:12+0700\n"
+"PO-Revision-Date: 2020-11-08 12:14+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: id\n"
+"Language-Team: id <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: app/__init__.py:20
+msgid "Please log in to access this page."
+msgstr "Silakan log in untuk mengakses halaman ini."
+
+#~ msgid "[Microblog] Reset Your Password"
+#~ msgstr "[Microblog] Atur Ulang Kata Sandi Anda"
+
+#~ msgid "Username"
+#~ msgstr "Nama Pengguna"
+
+#~ msgid "Password"
+#~ msgstr "Kata Sandi"
+
+#~ msgid "Remember Me"
+#~ msgstr "Ingat Saya"
+
+#~ msgid "Sign In"
+#~ msgstr "Masuk"
+
+#~ msgid "Email"
+#~ msgstr "Surel (Email)"
+
+#~ msgid "Repeat Password"
+#~ msgstr "Ulangi Password"
+
+#~ msgid "Register"
+#~ msgstr "Daftar"
+
+#~ msgid "Please use a different username."
+#~ msgstr "Silakan gunakan Nama Pengguna yang berbeda."
+
+#~ msgid "Please use a different email address."
+#~ msgstr "Por favor use una dirección de email diferente."
+
+#~ msgid "Request Password Reset"
+#~ msgstr "Atur Ulang Kata Sandi"
+
+#~ msgid "About me"
+#~ msgstr "Tentang Saya"
+
+#~ msgid "Submit"
+#~ msgstr "Kirim"
+
+#~ msgid "Say something"
+#~ msgstr "Tulis sesuatu"
+
+#~ msgid "Search"
+#~ msgstr "Cari"
+
+#~ msgid "Your post is now live!"
+#~ msgstr "Post Anda kini sudah tayang!"
+
+#~ msgid "Invalid username or password"
+#~ msgstr "Nama Pengguna atau Kata Sandi Tidak Valid"
+
+#~ msgid "Congratulations, you are now a registered user!"
+#~ msgstr "Selamat, sekarang Anda adalah pengguna terdaftar!"
+
+#~ msgid "Check your email for the instructions to reset your password"
+#~ msgstr ""
+#~ "Silakan cek email Anda untuk mengikuti"
+#~ " instruksti mengatur ulang kata sandi."
+
+#~ msgid "Your password has been reset."
+#~ msgstr "Kata sandi Anda telah diatur ulang."
+
+#~ msgid "Your changes have been saved."
+#~ msgstr "Perubahan Anda telah disimpan"
+
+#~ msgid "Edit Profile"
+#~ msgstr "Sunting Profil"
+
+#~ msgid "User %(username)s not found."
+#~ msgstr "Pengguna %(username)s tidak dapat ditemukan."
+
+#~ msgid "You cannot follow yourself!"
+#~ msgstr "Kamu tidak bisa mengikuti diri sendiri."
+
+#~ msgid "You are following %(username)s!"
+#~ msgstr "Kamu mengikuti %(username)s!"
+
+#~ msgid "You cannot unfollow yourself!"
+#~ msgstr "Kamu tidak bisa berhenti mengikuti diri sendiri!"
+
+#~ msgid "You are not following %(username)s."
+#~ msgstr "Kamu tidak mengikuti %(username)s."
+
+#~ msgid "Not Found"
+#~ msgstr "Tidak ditemukan"
+
+#~ msgid "Back"
+#~ msgstr "Kembali"
+
+#~ msgid "An unexpected error has occurred"
+#~ msgstr "Telah terjadi sebulah kesalahan tidak terduga."
+
+#~ msgid "The administrator has been notified. Sorry for the inconvenience!"
+#~ msgstr "Administrator telah diinformasikan. Maaf atas ketidaknyamanan ini."
+
+#~ msgid "%(username)s said %(when)s"
+#~ msgstr "%(username)s berkata %(when)s"
+
+#~ msgid "Welcome to Microblog"
+#~ msgstr "Selamat datang di Microblog"
+
+#~ msgid "Home"
+#~ msgstr "Beranda"
+
+#~ msgid "Explore"
+#~ msgstr "Telusuri"
+
+#~ msgid "Login"
+#~ msgstr "Masuk"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Logout"
+#~ msgstr "Keluar"
+
+#~ msgid "Hi, %(username)s!"
+#~ msgstr "Salam, %(username)s!"
+
+#~ msgid "Newer posts"
+#~ msgstr "Unggahan baru"
+
+#~ msgid "Older posts"
+#~ msgstr "Unggahan lama"
+
+#~ msgid "New User?"
+#~ msgstr "Pengguna Baru?"
+
+#~ msgid "Click to Register!"
+#~ msgstr "Klik untuk Mendaftar!"
+
+#~ msgid "Forgot Your Password?"
+#~ msgstr "Lupa Password Anda?"
+
+#~ msgid "Click to Reset It"
+#~ msgstr "Klik untuk Mengatur Ulang"
+
+#~ msgid "Reset Your Password"
+#~ msgstr "Atur Ulang Password Anda"
+
+#~ msgid "Reset Password"
+#~ msgstr "Atur Ulang Password"
+
+#~ msgid "Search Results"
+#~ msgstr "Hasil Pencarian"
+
+#~ msgid "Previous results"
+#~ msgstr "Hasil sebelumnya"
+
+#~ msgid "Next results"
+#~ msgstr "Hasil setelahnya"
+
+#~ msgid "User"
+#~ msgstr "Pengguna"
+
+#~ msgid "Last seen on"
+#~ msgstr "Terakhir dilihat pada"
+
+#~ msgid "%(count)d followers"
+#~ msgstr "%(count)d pengikut"
+
+#~ msgid "%(count)d following"
+#~ msgstr "Mengikuti %(count)d"
+
+#~ msgid "Edit your profile"
+#~ msgstr "Sunting profil Anda"
+
+#~ msgid "Follow"
+#~ msgstr "Ikuti"
+
+#~ msgid "Unfollow"
+#~ msgstr "Berhenti Ikuti"
+
