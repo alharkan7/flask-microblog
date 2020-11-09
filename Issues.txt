@@ -5,3 +5,12 @@
 			  "Reset Password" link is still error 500
 
 3. Part 13	: Cannot display local language, but date & time were able to show in local format.
+
+4. Part 14	: Microsoft Translator has changed to Cognitive Service, and the syntaxes are different.
+Here's the updated example of request to call the Translator using the global translator resource
+# Pass secret key using headers
+
+curl -X POST "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=es" \
+     -H "Ocp-Apim-Subscription-Key:<your-key>" \
+     -H "Content-Type: application/json" \
+     -d "[{'Text':'Hello, what is your name?'}]"

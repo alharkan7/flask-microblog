@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-11-08 13:12+0700\n"
+"POT-Creation-Date: 2020-11-09 11:29+0700\n"
 "PO-Revision-Date: 2020-11-08 12:14+0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: id\n"
@@ -21,6 +21,27 @@ msgstr ""
 #: app/__init__.py:20
 msgid "Please log in to access this page."
 msgstr "Silakan log in untuk mengakses halaman ini."
+
+#: app/translate.py:9
+msgid "Error: the translation service is not configured."
+msgstr ""
+
+#: app/translate.py:16
+msgid "Error: the translation service failed."
+msgstr ""
+
+#: app/templates/_post.html:14
+#, python-format
+msgid "%(username)s said %(when)s"
+msgstr ""
+
+#: app/templates/_post.html:25
+msgid "Translate"
+msgstr ""
+
+#: app/templates/base.html:67
+msgid "Error: Could not contact server."
+msgstr ""
 
 #~ msgid "[Microblog] Reset Your Password"
 #~ msgstr "[Microblog] Atur Ulang Kata Sandi Anda"

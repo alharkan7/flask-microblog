@@ -14,4 +14,5 @@ class Config(object):
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     ADMINS = ['raihankalla@gmail.com']
     LANGUAGES = ['en', 'es', 'id']
+    MS_TRANSLATOR_KEY = os.environ.get('MS_TRANSLATOR_KEY')
     POSTS_PER_PAGE = 25
